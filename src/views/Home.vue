@@ -204,6 +204,9 @@ export default {
 .hero {
   height: 100dvh;
   padding-top: 90px;
+  will-change: transform;
+  backface-visibility: hidden;
+  transform: translateZ(0);
 }
 
 /* Separadores sutis entre seções */
@@ -247,7 +250,7 @@ export default {
     padding: 80px 20px;
   }
   .hero {
-  padding-top: 0px;
-}
+    height: calc(100vh - 90px); /* evita recálculo constante */
+  }
 }
 </style>
