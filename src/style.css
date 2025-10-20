@@ -329,6 +329,7 @@ html {
             animation-delay: -14s;
         }
 
+
         @keyframes geometricFloat {
             0%, 100% { 
                 opacity: 0.3;

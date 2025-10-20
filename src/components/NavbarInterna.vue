@@ -90,4 +90,13 @@
             opacity: 1;
             transform: translateY(0);
         }
+
+        .nav-item,
+.nav-item a {
+  user-select: none; /* impede que o texto seja selecionado */
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-tap-highlight-color: transparent; /* remove o azul no mobile */
+}
 </style>
