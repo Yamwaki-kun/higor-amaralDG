@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "id": 21285842,
+      "user_id": 13672593,
+      "title": "mbastos Re-Brand",
+      "description": "",
+      "created_at": "2025-10-13T19:35:08.608-05:00",
+      "updated_at": "2025-10-14T17:53:01.182-05:00",
+      "likes_count": 0,
+      "slug": "mbastos-re-brand",
+      "published_at": "2025-10-14T17:53:01.177-05:00",
+      "adult_content": false,
+      "cover_asset_id": 92732639,
+      "admin_adult_content": false,
+      "tag_list": null,
+      "hash_id": "AZYz1o",
+      "permalink": "https://www.artstation.com/artwork/AZYz1o",
+      "hide_as_adult": false,
+      "cover": {
+        "id": 92732639,
+        "small_square_url": "",
+        "micro_square_image_url": "",
+        "thumb_url": "https://cdna.artstation.com/p/assets/images/images/092/700/318/large/higordg-34.jpg?1760401968"
+      },
+      "icons": {
+        "image": true,
+        "video": false,
+        "video_clip": false,
+        "model3d": false,
+        "marmoset": false,
+        "pano": false
+      },
+      "assets_count": 38
+    },
+    {
+      "id": 21285798,
+      "user_id": 13672593,
+      "title": "League interclubes futsal",
+      "description": "",
+      "created_at": "2025-10-13T19:22:38.805-05:00",
+      "updated_at": "2025-10-13T19:22:38.813-05:00",
+      "likes_count": 0,
+      "slug": "league-interclubes-futsal",
+      "published_at": "2025-10-13T19:22:38.801-05:00",
+      "adult_content": false,
+      "cover_asset_id": 92700124,
+      "admin_adult_content": false,
+      "tag_list": null,
+      "hash_id": "1NPeyL",
+      "permalink": "https://www.artstation.com/artwork/1NPeyL",
+      "hide_as_adult": false,
+      "cover": {
+        "id": 92700124,
+        "small_square_url": "",
+        "micro_square_image_url": "",
+        "thumb_url": "https://cdna.artstation.com/p/assets/images/images/092/700/124/large/higordg-captura-de-tela-2025-10-13-211943.jpg?1760401222"
+      },
+      "icons": {
+        "image": true,
+        "video": false,
+        "video_clip": false,
+        "model3d": false,
+        "marmoset": false,
+        "pano": false
+      },
+      "assets_count": 1
+    },
+    {
+      "id": 21285701,
+      "user_id": 13672593,
+      "title": "Domenica Blu",
+      "description": "",
+      "created_at": "2025-10-13T18:56:14.164-05:00",
+      "updated_at": "2025-10-14T18:01:26.403-05:00",
+      "likes_count": 0,
+      "slug": "domenica-blu",
+      "published_at": "2025-10-13T18:56:14.117-05:00",
+      "adult_content": false,
+      "cover_asset_id": 92732863,
+      "admin_adult_content": false,
+      "tag_list": null,
+      "hash_id": "3EY5YA",
+      "permalink": "https://www.artstation.com/artwork/3EY5YA",
+      "hide_as_adult": false,
+      "cover": {
+        "id": 92732863,
+        "small_square_url": "",
+        "micro_square_image_url": "",
+        "thumb_url": "https://cdna.artstation.com/p/assets/images/images/092/699/534/large/higordg-1757339849670-aa5df0ea-f318-4591-a644-1a4aaf727732-37.jpg?1760399577"
+      },
+      "icons": {
+        "image": true,
+        "video": false,
+        "video_clip": false,
+        "model3d": false,
+        "marmoset": false,
+        "pano": false
+      },
+      "assets_count": 43
+    },
+    {
+      "id": 21285682,
+      "user_id": 13672593,
+      "title": "BLUE",
+      "description": "project, brand creation for a potential online security company",
+      "created_at": "2025-10-13T18:49:17.789-05:00",
+      "updated_at": "2025-10-13T18:49:18.911-05:00",
+      "likes_count": 0,
+      "slug": "blue-303-92b1de74-eaee-4111-8888-1db30fb32f08",
+      "published_at": "2025-10-13T18:49:17.677-05:00",
+      "adult_content": false,
+      "cover_asset_id": 92699479,
+      "admin_adult_content": false,
+      "tag_list": null,
+      "hash_id": "V2KPKZ",
+      "permalink": "https://www.artstation.com/artwork/V2KPKZ",
+      "hide_as_adult": false,
+      "cover": {
+        "id": 92699479,
+        "small_square_url": "",
+        "micro_square_image_url": "",
+        "thumb_url": "https://cdna.artstation.com/p/assets/images/images/092/699/162/large/higordg-1757343828090-53031f29-27b7-4a9a-888d-7ba8a190bf03-51.jpg?1760398471"
+      },
+      "icons": {
+        "image": true,
+        "video": false,
+        "video_clip": false,
+        "model3d": false,
+        "marmoset": false,
+        "pano": false
+      },
+      "assets_count": 26
+    }
+  ]
+}
